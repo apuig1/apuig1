@@ -7,7 +7,7 @@ const ALBERT = {
   code: ['JavaScript', 'TypeScript', 'PHP'],
   codeEditor: ['Neovim'],
   frameworks: ['Angular', 'Ionic', 'Symfony'],
-  test: ['Jest', 'Cypress', 'Jenkins'],
+  test: ['Jasmine', 'Cypress', 'Jenkins'],
   tools: ['Docker', 'Git'],
   whatElse: 'Totally opened to learn new techs & tools 🤓',
 }
