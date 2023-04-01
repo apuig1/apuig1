@@ -4,11 +4,10 @@ I'm a _software engineer_ from the [Open University of Catalonia](https://studie
 
 ``` js
 const ALBERT = {
-  code: ['JavaScript', 'TypeScript', 'PHP'],
-  codeEditor: ['Neovim'],
-  frameworks: ['Angular', 'Ionic', 'Symfony'],
-  test: ['Jasmine', 'Cypress', 'Jenkins'],
-  tools: ['Docker', 'Git'],
+  code: ['JavaScript', 'TypeScript'],
+  frameworks: ['Angular', 'Ionic'],
+  test: ['Jasmine', 'Cypress'],
+  tools: ['Docker', 'Git', 'Jenkins'],
   whatElse: 'Totally opened to learn new techs & tools 🤓',
 }
 ```
